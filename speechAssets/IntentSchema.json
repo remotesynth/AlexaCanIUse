@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "CanIUseIntent",
+      "slots": [
+      {
+        "name" : "Feature",
+        "type": "LIST_OF_FEATURES"
+      }
+     ]
+    },
+   {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

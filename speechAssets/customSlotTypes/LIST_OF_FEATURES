@@ -1,0 +1,341 @@
+PNG alpha transparency
+Animated PNG (APNG)
+Video element
+Audio element
+contenteditable attribute (basic support)
+Drag and Drop
+Internationalization API
+querySelector/querySelectorAll
+getElementsByClassName
+HTML5 form features
+New semantic elements
+CSS line-clamp
+Offline web applications
+Web Workers
+@font-face Web fonts
+EOT - Embedded OpenType fonts
+WOFF - Web Open Font Format
+CSS3 Multiple backgrounds
+CSS3 Border images
+CSS3 Background-image options
+CSS Table display
+CSS Generated content for pseudo-elements
+CSS position:fixed
+Beacon API
+Hashchange event
+CSS 2.1 selectors
+CSS3 selectors
+CSS3 Text-shadow
+CSS3 Box-shadow
+CSS3 Colors
+CSS3 Box-sizing
+CSS3 Media Queries
+CSS3 Multiple column layout
+CSS3 Border-radius (rounded corners)
+CSS3 2D Transforms
+ECMAScript 5 Strict Mode
+Window.devicePixelRatio
+CSS3 3D Transforms
+Shared Web Workers
+CSS Hyphenation
+CSS3 Transitions
+CSS font-feature-settings
+CSS Animation
+CSS Gradients
+CSS Canvas Drawings
+CSS Reflections
+CSS Masks
+Basic console logging functions
+SVG (basic support)
+SVG in CSS backgrounds
+SVG SMIL animation
+SVG fonts
+SVG filters
+SVG effects for HTML
+Inline SVG in HTML5
+Canvas (basic support)
+Text API for Canvas
+Web Storage - name/value pairs
+Web SQL Database
+IndexedDB
+Online/offline status
+Server-sent events
+Cross-document messaging
+Server Name Indication
+Data URIs
+Wav audio format
+MathML
+CSS Feature Queries
+XHTML served as application/xhtml+xml
+XHTML+SMIL animation
+WAI-ARIA Accessibility features
+Geolocation
+Flexible Box Layout Module
+WebGL - 3D Canvas graphics
+File API
+Shadow DOM
+Web Sockets
+hidden attribute
+async attribute for external scripts
+Media Source Extensions
+Cross-Origin Resource Sharing
+CSS Backdrop Filter
+calc() as CSS unit value
+Document Object Model Range
+Ruby annotation
+CSS3 Opacity
+Form validation
+Session history management
+JSON parsing
+classList (DOMTokenList)
+CSS3 Text-overflow
+WebM video format
+MPEG-4/H.264 video format
+Ogg/Theora video format
+CSS3 Overflow-wrap
+PointerLock API
+CSS3 object-fit/object-position
+XMLHttpRequest advanced features
+CSS min/max-width/height
+Details & Summary elements
+CSS text-stroke
+CSS inline-block
+Web Notifications
+getUserMedia/Stream API
+SVG in HTML img element
+Datalist element
+dataset & data-* attributes
+CSS Grid Layout
+Toolbar/context menu
+CSS zoom
+rem (root em) units
+TTF/OTF - TrueType and OpenType font support
+Touch events
+matches() DOM method
+CSS pointer-events (for HTML)
+Blob constructing
+FileReader API
+Filesystem & FileWriter API
+Blob URLs
+relList (DOMTokenList)
+Typed Arrays
+DeviceOrientation & DeviceMotion events
+defer attribute for external scripts
+Navigation Timing API
+Web Audio API
+CSS Regions
+Spellcheck attribute
+Full Screen API
+CSS Exclusions Level 1
+requestAnimationFrame
+Range input type
+matchMedia
+Date and time input types
+Document.execCommand()
+Color input type
+Number input type
+Element.getBoundingClientRect()
+sandbox attribute for iframes
+CSS Counters
+CSS resize property
+input placeholder attribute
+SPDY protocol
+CSS Repeating Gradients
+CSS Filter Effects
+getComputedStyle
+MP3 audio format
+CSS3 word-break
+Viewport units: vw, vh, vmin, vmax
+Content Security Policy 1.0
+Page Visibility
+Strict Transport Security
+Scoped CSS
+SVG fragment identifiers
+CSS outline
+Download attribute
+Pointer events
+CSS user-select: none
+accept attribute for file input
+WebP image format
+autocomplete attribute: on & off values
+Intrinsic & Extrinsic Sizing
+Web Cryptography
+HTML templates
+Opus
+JPEG XR image format
+Channel messaging
+CSS3 tab-size
+Mutation Observer
+::selection CSS pseudo-element
+::placeholder CSS pseudo-element
+CSS Device Adaptation
+text-emphasis styling
+Web MIDI API
+Canvas blend modes
+Clipboard API
+WebRTC Peer-to-peer connections
+CSS3 Cursors (original values)
+CSS3 Cursors: zoom-in & zoom-out
+WebVTT - Web Video Text Tracks
+Promises
+CSS position:sticky
+Dialog element
+CSS Variables (Custom Properties)
+Vibration API
+CSS background-blend-mode
+Blending of HTML/SVG elements
+Speech Recognition API
+High Resolution Time API
+Battery Status API
+Service Workers
+text-decoration styling
+srcdoc attribute for iframes
+Speech Synthesis API
+User Timing API
+Srcset attribute
+Ambient Light API
+CSS will-change property
+CSS Shapes Level 1
+DOMContentLoaded
+Proximity API
+Improved kerning pairs & ligatures
+seamless attribute for iframes
+CSS3 image-orientation
+Picture element
+WOFF 2.0 - Web Open Font Format
+CSS text-size-adjust
+Web Animations API
+Resource Timing
+Custom Elements
+HTML Imports
+Multiple file selection
+Base64 encoding and decoding
+CSS Appearance
+Object RTC (ORTC) API for WebRTC
+CSS background-position edge offsets
+CSS.supports() API
+CSS touch-action property
+Autofocus attribute
+CSS clip-path property
+crypto.getRandomValues()
+Screen Orientation
+CSS Font Loading
+Font unicode-range subsetting
+Gamepad API
+CSS font-stretch
+CSS font-size-adjust
+PNG favicons
+SVG favicons
+Media Queries: resolution feature
+DOM Parsing and Serialization
+CSS image-set
+CSS box-decoration-break
+Object.observe data binding
+CSS Counter Styles
+CSS page-break properties
+:placeholder-shown CSS pseudo-class
+BroadcastChannel
+Crisp edges/pixelated images
+CSS3 text-align-last
+CSS Logical Properties
+Fetch
+Referrer Policy
+CSS background-attachment
+CSS currentColor value
+Pattern attribute for input fields
+Custom protocol handling
+CSS Scroll snap points
+Minimum length attribute for input fields
+Media Queries: interaction media features
+Input Method Editor API
+CSS font-smooth
+Audio Tracks
+Video Tracks
+Content Security Policy Level 2
+Permissions API
+HTTP/2 protocol
+CSS3 font-kerning
+JPEG 2000 image format
+Upgrade Insecure Requests
+Public Key Pinning
+Email, telephone & URL input types
+disabled attribute of the fieldset element
+CSS font-variant-alternates
+Form attribute
+ECMAScript 5
+PageTransitionEvent
+Ogg Vorbis audio format
+meter element
+progress element
+CSS filter() function
+CSS element() function
+FIDO U2F API
+AAC audio file format
+Resource Hints: prefetch
+Reversed attribute of ordered lists
+::first-letter CSS pseudo-element selector
+wbr (word break opportunity) element
+const
+CSS all property
+CSS initial value
+letter-spacing CSS property
+CSS unset value
+Element.insertAdjacentHTML()
+let
+Arrow functions
+asm.js
+Resource Hints: Lazyload
+Resource Hints: dns-prefetch
+Resource Hints: prerender
+Rest parameters
+CSS Cross-Fade Function
+CSS writing-mode property
+CustomEvent
+Node.textContent
+EventTarget.addEventListener()
+EventTarget.dispatchEvent
+document.head
+Node.innerText
+Client Hints: DPR, Width, Viewport-Width
+Resource Hints: preconnect
+Network Information API
+Efficient Script Yielding: setImmediate()
+ES6 Number
+maxlength attribute for input and textarea elements
+Proxy object
+KeyboardEvent.which
+KeyboardEvent.charCode
+KeyboardEvent.code
+KeyboardEvent.location
+KeyboardEvent.getModifierState()
+KeyboardEvent.key
+Brotli Accept-Encoding/Content-Encoding
+Element.closest()
+input event
+Search input type
+CSS Motion Path
+CSSOM Scroll-behavior
+Subresource Integrity
+:in-range and :out-of-range CSS pseudo-classes
+Push API
+background-position-x & background-position-y
+CSS revert value
+CSS widows & orphans
+Web Bluetooth
+scrollIntoView
+selector list argument of :nth-child and :nth-last-child CSS pseudo-classes
+focusin & focusout events
+:matches() CSS pseudo-class
+rel=noopener
+CSS text-justify
+CSS scrollbar styling
+Resource Hints: preload
+Case-insensitive CSS attribute selectors
+:default CSS pseudo-class
+:optional CSS pseudo-class
+:indeterminate CSS pseudo-class
+WebGL 2.0
+document.currentScript
+Explicit descendant combinator >>
+:has() CSS relational pseudo-class
+selector list argument of :not()
