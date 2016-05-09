@@ -1,341 +1,614 @@
 PNG alpha transparency
-Animated PNG (APNG)
+png alpha
+Animated PNG APNG
+apng
 Video element
+video
 Audio element
-contenteditable attribute (basic support)
+audio
+contenteditable attribute basic support
+contenteditable
 Drag and Drop
+dragndrop
 Internationalization API
-querySelector/querySelectorAll
+internationalization
+querySelector querySelectorAll
+queryselector
 getElementsByClassName
 HTML5 form features
+forms
 New semantic elements
-CSS line-clamp
+html5semantic
+CSS line clamp
 Offline web applications
+offline apps
 Web Workers
-@font-face Web fonts
-EOT - Embedded OpenType fonts
-WOFF - Web Open Font Format
+webworkers
+font face Web fonts
+fontface
+EOT Embedded OpenType fonts
+eot
+WOFF Web Open Font Format
+woff
 CSS3 Multiple backgrounds
+multibackgrounds
 CSS3 Border images
-CSS3 Background-image options
+border image
+CSS3 Background image options
+background img opts
 CSS Table display
-CSS Generated content for pseudo-elements
-CSS position:fixed
+css table
+CSS Generated content for pseudo elements
+css gencontent
+CSS position fixed
+css fixed
 Beacon API
+beacon
 Hashchange event
-CSS 2.1 selectors
+hashchange
+CSS 2 1 selectors
+css sel2
 CSS3 selectors
-CSS3 Text-shadow
-CSS3 Box-shadow
+css sel3
+CSS3 Text shadow
+css textshadow
+CSS3 Box shadow
+css boxshadow
 CSS3 Colors
-CSS3 Box-sizing
+CSS3 Box sizing
+css3 boxsizing
 CSS3 Media Queries
+css mediaqueries
 CSS3 Multiple column layout
-CSS3 Border-radius (rounded corners)
+multicolumn
+CSS3 Border radius rounded corners
+border radius
 CSS3 2D Transforms
+transforms2d
 ECMAScript 5 Strict Mode
-Window.devicePixelRatio
+use strict
+Window devicePixelRatio
+devicepixelratio
 CSS3 3D Transforms
+transforms3d
 Shared Web Workers
+sharedworkers
 CSS Hyphenation
+css hyphens
 CSS3 Transitions
-CSS font-feature-settings
+css transitions
+CSS font feature settings
+font feature
 CSS Animation
 CSS Gradients
 CSS Canvas Drawings
+css canvas
 CSS Reflections
 CSS Masks
 Basic console logging functions
-SVG (basic support)
+console basic
+SVG basic support
+svg
 SVG in CSS backgrounds
+svg css
 SVG SMIL animation
+svg smil
 SVG fonts
 SVG filters
 SVG effects for HTML
+svg html
 Inline SVG in HTML5
-Canvas (basic support)
+svg html5
+Canvas basic support
+canvas
 Text API for Canvas
-Web Storage - name/value pairs
+canvas text
+Web Storage name value pairs
+namevalue storage
 Web SQL Database
+sql storage
 IndexedDB
-Online/offline status
-Server-sent events
-Cross-document messaging
+Online offline status
+online status
+Server sent events
+eventsource
+Cross document messaging
+x doc messaging
 Server Name Indication
+sni
 Data URIs
+datauri
 Wav audio format
+wav
 MathML
 CSS Feature Queries
-XHTML served as application/xhtml+xml
-XHTML+SMIL animation
-WAI-ARIA Accessibility features
+css featurequeries
+XHTML served as application xhtml xml
+xhtml
+XHTML SMIL animation
+xhtmlsmil
+WAI ARIA Accessibility features
+wai aria
 Geolocation
 Flexible Box Layout Module
-WebGL - 3D Canvas graphics
+flexbox
+WebGL 3D Canvas graphics
+webgl
 File API
+fileapi
 Shadow DOM
+shadowdom
 Web Sockets
+websockets
 hidden attribute
+hidden
 async attribute for external scripts
+script async
 Media Source Extensions
-Cross-Origin Resource Sharing
+mediasource
+Cross Origin Resource Sharing
+cors
 CSS Backdrop Filter
-calc() as CSS unit value
+calc as CSS unit value
+calc
 Document Object Model Range
+dom range
 Ruby annotation
+ruby
 CSS3 Opacity
+css opacity
 Form validation
 Session history management
+history
 JSON parsing
-classList (DOMTokenList)
-CSS3 Text-overflow
+json
+classList DOMTokenList
+classlist
+CSS3 Text overflow
+text overflow
 WebM video format
-MPEG-4/H.264 video format
-Ogg/Theora video format
-CSS3 Overflow-wrap
+webm
+MPEG 4 H 264 video format
+mpeg4
+Ogg Theora video format
+ogv
+CSS3 Overflow wrap
+wordwrap
 PointerLock API
-CSS3 object-fit/object-position
+pointerlock
+CSS3 object fit object position
+object fit
 XMLHttpRequest advanced features
-CSS min/max-width/height
-Details & Summary elements
-CSS text-stroke
-CSS inline-block
+xhr2
+CSS min max width height
+minmaxwh
+Details Summary elements
+details
+CSS text stroke
+text stroke
+CSS inline block
+inline block
 Web Notifications
-getUserMedia/Stream API
+notifications
+getUserMedia Stream API
+stream
 SVG in HTML img element
+svg img
 Datalist element
-dataset & data-* attributes
+datalist
+dataset data attributes
+dataset
 CSS Grid Layout
-Toolbar/context menu
+css grid
+Toolbar context menu
+menu
 CSS zoom
-rem (root em) units
-TTF/OTF - TrueType and OpenType font support
+rem root em units
+rem
+TTF OTF TrueType and OpenType font support
+ttf
 Touch events
-matches() DOM method
-CSS pointer-events (for HTML)
+touch
+matches DOM method
+matchesselector
+CSS pointer events for HTML
+pointer events
 Blob constructing
+blobbuilder
 FileReader API
-Filesystem & FileWriter API
+filereader
+Filesystem FileWriter API
+filesystem
 Blob URLs
-relList (DOMTokenList)
+bloburls
+relList DOMTokenList
+rellist
 Typed Arrays
-DeviceOrientation & DeviceMotion events
+typedarrays
+DeviceOrientation DeviceMotion events
+deviceorientation
 defer attribute for external scripts
+script defer
 Navigation Timing API
+nav timing
 Web Audio API
+audio api
 CSS Regions
 Spellcheck attribute
 Full Screen API
+fullscreen
 CSS Exclusions Level 1
+css exclusions
 requestAnimationFrame
 Range input type
+input range
 matchMedia
 Date and time input types
-Document.execCommand()
+input datetime
+Document execCommand
 Color input type
+input color
 Number input type
-Element.getBoundingClientRect()
+input number
+Element getBoundingClientRect
+getboundingclientrect
 sandbox attribute for iframes
+iframe sandbox
 CSS Counters
 CSS resize property
+css resize
 input placeholder attribute
+input placeholder
 SPDY protocol
+spdy
 CSS Repeating Gradients
 CSS Filter Effects
+css filters
 getComputedStyle
 MP3 audio format
-CSS3 word-break
-Viewport units: vw, vh, vmin, vmax
-Content Security Policy 1.0
+mp3
+CSS3 word break
+word break
+Viewport units vw vh vmin vmax
+viewport units
+Content Security Policy 1 0
+contentsecuritypolicy
 Page Visibility
+pagevisibility
 Strict Transport Security
+stricttransportsecurity
 Scoped CSS
+style scoped
 SVG fragment identifiers
+svg fragment
 CSS outline
+outline
 Download attribute
-Pointer events
-CSS user-select: none
+download
+pointer
+CSS user select none
+user select none
 accept attribute for file input
+input file accept
 WebP image format
-autocomplete attribute: on & off values
-Intrinsic & Extrinsic Sizing
+webp
+autocomplete attribute on off values
+input autocomplete onoff
+Intrinsic Extrinsic Sizing
+intrinsic width
 Web Cryptography
+cryptography
 HTML templates
+template
 Opus
 JPEG XR image format
+jpegxr
 Channel messaging
-CSS3 tab-size
+CSS3 tab size
+css3 tabsize
 Mutation Observer
-::selection CSS pseudo-element
-::placeholder CSS pseudo-element
+mutationobserver
+selection CSS pseudo element
+css selection
+placeholder CSS pseudo element
+css placeholder
 CSS Device Adaptation
-text-emphasis styling
+css deviceadaptation
+text emphasis styling
+text emphasis
 Web MIDI API
+midi
 Canvas blend modes
+canvas blending
 Clipboard API
-WebRTC Peer-to-peer connections
-CSS3 Cursors (original values)
-CSS3 Cursors: zoom-in & zoom-out
-WebVTT - Web Video Text Tracks
+clipboard
+WebRTC Peer to peer connections
+rtcpeerconnection
+CSS3 Cursors original values
+css3 cursors
+CSS3 Cursors zoom in zoom out
+css3 cursors newer
+WebVTT Web Video Text Tracks
+webvtt
 Promises
-CSS position:sticky
+CSS position sticky
+css sticky
 Dialog element
-CSS Variables (Custom Properties)
+dialog
+CSS Variables Custom Properties
+css variables
 Vibration API
-CSS background-blend-mode
-Blending of HTML/SVG elements
+vibration
+CSS background blend mode
+css backgroundblendmode
+Blending of HTML SVG elements
+css mixblendmode
 Speech Recognition API
+speech recognition
 High Resolution Time API
+high resolution time
 Battery Status API
+battery status
 Service Workers
-text-decoration styling
+serviceworkers
+text decoration styling
+text decoration
 srcdoc attribute for iframes
+iframe srcdoc
 Speech Synthesis API
+speech synthesis
 User Timing API
+user timing
 Srcset attribute
+srcset
 Ambient Light API
-CSS will-change property
+ambient light
+CSS will change property
+will change
 CSS Shapes Level 1
+css shapes
 DOMContentLoaded
 Proximity API
-Improved kerning pairs & ligatures
+proximity
+Improved kerning pairs ligatures
+kerning pairs ligatures
 seamless attribute for iframes
-CSS3 image-orientation
+iframe seamless
+CSS3 image orientation
+css image orientation
 Picture element
-WOFF 2.0 - Web Open Font Format
-CSS text-size-adjust
+picture
+WOFF 2 0 Web Open Font Format
+woff2
+CSS text size adjust
+text size adjust
 Web Animations API
+web animation
 Resource Timing
 Custom Elements
 HTML Imports
+imports
 Multiple file selection
+input file multiple
 Base64 encoding and decoding
+atob btoa
 CSS Appearance
-Object RTC (ORTC) API for WebRTC
-CSS background-position edge offsets
-CSS.supports() API
-CSS touch-action property
+Object RTC ORTC API for WebRTC
+objectrtc
+CSS background position edge offsets
+css background offsets
+CSS supports API
+CSS touch action property
+css touch action
 Autofocus attribute
-CSS clip-path property
-crypto.getRandomValues()
+autofocus
+CSS clip path property
+css clip path
+crypto getRandomValues
+getrandomvalues
 Screen Orientation
 CSS Font Loading
-Font unicode-range subsetting
+font loading
+Font unicode range subsetting
+font unicode range
 Gamepad API
-CSS font-stretch
-CSS font-size-adjust
+gamepad
+CSS font stretch
+CSS font size adjust
+font size adjust
 PNG favicons
+link icon png
 SVG favicons
-Media Queries: resolution feature
+link icon svg
+Media Queries resolution feature
+css media resolution
 DOM Parsing and Serialization
-CSS image-set
-CSS box-decoration-break
-Object.observe data binding
+xml serializer
+CSS image set
+CSS box decoration break
+css boxdecorationbreak
+Object observe data binding
+object observe
 CSS Counter Styles
-CSS page-break properties
-:placeholder-shown CSS pseudo-class
+css at counter style
+CSS page break properties
+css page break
+placeholder shown CSS pseudo class
+css placeholder shown
 BroadcastChannel
-Crisp edges/pixelated images
-CSS3 text-align-last
+Crisp edges pixelated images
+css crisp edges
+CSS3 text align last
+css text align last
 CSS Logical Properties
+css logical props
 Fetch
 Referrer Policy
-CSS background-attachment
+CSS background attachment
+background attachment
 CSS currentColor value
+currentcolor
 Pattern attribute for input fields
+input pattern
 Custom protocol handling
+registerprotocolhandler
 CSS Scroll snap points
+css snappoints
 Minimum length attribute for input fields
-Media Queries: interaction media features
+input minlength
+Media Queries interaction media features
+css media interaction
 Input Method Editor API
-CSS font-smooth
+ime
+CSS font smooth
+font smooth
 Audio Tracks
+audiotracks
 Video Tracks
+videotracks
 Content Security Policy Level 2
+contentsecuritypolicy2
 Permissions API
-HTTP/2 protocol
-CSS3 font-kerning
+HTTP 2 protocol
+http2
+CSS3 font kerning
+font kerning
 JPEG 2000 image format
+jpeg2000
 Upgrade Insecure Requests
+upgradeinsecurerequests
 Public Key Pinning
-Email, telephone & URL input types
+publickeypinning
+Email telephone URL input types
+input email tel url
 disabled attribute of the fieldset element
-CSS font-variant-alternates
+fieldset disabled
+CSS font variant alternates
+font variant alternates
 Form attribute
 ECMAScript 5
+es5
 PageTransitionEvent
+page transition events
 Ogg Vorbis audio format
+ogg vorbis
 meter element
+meter
 progress element
-CSS filter() function
-CSS element() function
+progress
+CSS filter function
+CSS element function
 FIDO U2F API
+u2f
 AAC audio file format
-Resource Hints: prefetch
+aac
+Resource Hints prefetch
+link rel prefetch
 Reversed attribute of ordered lists
-::first-letter CSS pseudo-element selector
-wbr (word break opportunity) element
+ol reversed
+first letter CSS pseudo element selector
+css first letter
+wbr word break opportunity element
+wbr element
 const
 CSS all property
+css all
 CSS initial value
-letter-spacing CSS property
+letter spacing CSS property
+css letter spacing
 CSS unset value
-Element.insertAdjacentHTML()
+Element insertAdjacentHTML
+insertadjacenthtml
 let
 Arrow functions
-asm.js
-Resource Hints: Lazyload
-Resource Hints: dns-prefetch
-Resource Hints: prerender
+asm js
+asmjs
+Resource Hints Lazyload
+lazyload
+Resource Hints dns prefetch
+link rel dns prefetch
+Resource Hints prerender
+link rel prerender
 Rest parameters
-CSS Cross-Fade Function
-CSS writing-mode property
+CSS Cross Fade Function
+css cross fade
+CSS writing mode property
+css writing mode
 CustomEvent
-Node.textContent
-EventTarget.addEventListener()
-EventTarget.dispatchEvent
-document.head
-Node.innerText
-Client Hints: DPR, Width, Viewport-Width
-Resource Hints: preconnect
+Node textContent
+textcontent
+EventTarget addEventListener
+addeventlistener
+EventTarget dispatchEvent
+dispatchevent
+document head
+documenthead
+Node innerText
+innertext
+Client Hints DPR Width Viewport Width
+client hints dpr width viewport
+Resource Hints preconnect
+link rel preconnect
 Network Information API
-Efficient Script Yielding: setImmediate()
+netinfo
+Efficient Script Yielding setImmediate
+setimmediate
 ES6 Number
 maxlength attribute for input and textarea elements
+maxlength
 Proxy object
-KeyboardEvent.which
-KeyboardEvent.charCode
-KeyboardEvent.code
-KeyboardEvent.location
-KeyboardEvent.getModifierState()
-KeyboardEvent.key
-Brotli Accept-Encoding/Content-Encoding
-Element.closest()
+proxy
+KeyboardEvent which
+KeyboardEvent charCode
+KeyboardEvent code
+KeyboardEvent location
+KeyboardEvent getModifierState
+KeyboardEvent key
+Brotli Accept Encoding Content Encoding
+brotli
+Element closest
 input event
 Search input type
+input search
 CSS Motion Path
-CSSOM Scroll-behavior
+css motion paths
+CSSOM Scroll behavior
+css scroll behavior
 Subresource Integrity
-:in-range and :out-of-range CSS pseudo-classes
+in range and out of range CSS pseudo classes
+css in out of range
 Push API
-background-position-x & background-position-y
+background position x background position y
+background position x y
 CSS revert value
-CSS widows & orphans
+CSS widows orphans
 Web Bluetooth
 scrollIntoView
-selector list argument of :nth-child and :nth-last-child CSS pseudo-classes
-focusin & focusout events
-:matches() CSS pseudo-class
-rel=noopener
-CSS text-justify
+selector list argument of nth child and nth last child CSS pseudo classes
+css nth child of
+focusin focusout events
+matches CSS pseudo class
+css matches pseudo
+rel noopener
+CSS text justify
 CSS scrollbar styling
-Resource Hints: preload
-Case-insensitive CSS attribute selectors
-:default CSS pseudo-class
-:optional CSS pseudo-class
-:indeterminate CSS pseudo-class
-WebGL 2.0
-document.currentScript
-Explicit descendant combinator >>
-:has() CSS relational pseudo-class
-selector list argument of :not()
+css scrollbar
+Resource Hints preload
+link rel preload
+Case insensitive CSS attribute selectors
+css case insensitive
+default CSS pseudo class
+css default pseudo
+optional CSS pseudo class
+css optional pseudo
+indeterminate CSS pseudo class
+css indeterminate pseudo
+WebGL 2 0
+webgl2
+document currentScript
+Explicit descendant combinator
+css descendant gtgt
+has CSS relational pseudo class
+css has
+selector list argument of not
+css not sel list

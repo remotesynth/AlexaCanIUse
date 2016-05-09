@@ -1,12 +1,27 @@
 var data = require('./data'),
     fs = require('fs'),
     features = '',
-    featureModule = 'module.exports = {\n';
+    featureModule = 'module.exports = {\n',
+    allKeys = [],
+    key;
 
 for (var item in data.data) {
   if (data.data.hasOwnProperty(item)) {
-    features += data.data[item].title + '\n';
-    featureModule += '"' + data.data[item].title.toLowerCase() + '" : "' + item + '",\n';
+    // remove special characters and then duplicate spaces it creates
+    
+    key = data.data[item].title.replace(/[^a-zA-Z0-9 ]/g, " ").trim().replace(/ +(?= )/g,'')
+    if (allKeys.indexOf(key.toLowerCase()) == -1) {
+        allKeys.push(key.toLowerCase());
+        features += key + '\n';
+        featureModule += '"' + key.toLowerCase() + '" : "' + item + '",\n';
+    }
+    // add in the key itself without special chars as it often strips the feature to a simplified version
+    key = item.replace(/[^a-zA-Z0-9 ]/g, " ").trim().replace(/ +(?= )/g,'');
+    if (allKeys.indexOf(key.toLowerCase()) == -1) {
+        allKeys.push(key.toLowerCase());
+        features += key + '\n';
+        featureModule += '"' + key.toLowerCase() + '" : "' + item + '",\n';
+    }
   }
 }
 
