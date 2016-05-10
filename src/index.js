@@ -1,8 +1,11 @@
+/* This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/. */
+
 'use strict';
 
 var AlexaSkill = require('./AlexaSkill'),
     features = require('./features'),
-    data = require('./data/data'),
+    data = require('./data/data'), // data from caniuse.com
     createResponse = require('./createResponse');
 
 var APP_ID = undefined; //replace with 'amzn1.echo-sdk-ams.app.[your-unique-value-here]';
