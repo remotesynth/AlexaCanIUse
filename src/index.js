@@ -16,7 +16,7 @@ AlexaCanIUse.prototype = Object.create(AlexaSkill.prototype);
 AlexaCanIUse.prototype.constructor = AlexaCanIUse;
 
 AlexaCanIUse.prototype.eventHandlers.onLaunch = function (launchRequest, session, response) {
-    var speechText = "Welcome to the Can I Use for Alexa. You can ask a about support for various browser features? ... Now, what can I help you with.";
+    var speechText = "Welcome to the Can I Use for Alexa. You can ask about support for various browser features? ... Now, what can I help you with.";
     // If the user either does not reply to the welcome message or says something that is not
     // understood, they will be prompted again with this text.
     var repromptText = "For instructions on what you can say, please say help me.";
