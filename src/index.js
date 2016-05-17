@@ -19,7 +19,7 @@ AlexaCanIUse.prototype = Object.create(AlexaSkill.prototype);
 AlexaCanIUse.prototype.constructor = AlexaCanIUse;
 
 AlexaCanIUse.prototype.eventHandlers.onLaunch = function (launchRequest, session, response) {
-    var speechText = "Welcome to the Can I Use for Alexa. You can ask about support for various browser features? ... Now, what can I help you with.";
+    var speechText = "Welcome to Browser Features for Alexa. You can ask about support for various browser features according to Can I Use dotcom? ... Now, what can I help you with.";
     // If the user either does not reply to the welcome message or says something that is not
     // understood, they will be prompted again with this text.
     var repromptText = "For instructions on what you can say, please say help me.";
@@ -66,7 +66,7 @@ AlexaCanIUse.prototype.intentHandlers = {
     },
 
     "AMAZON.HelpIntent": function (intent, session, response) {
-        var speechText = "You can ask questions about browser features such as, can I use drag and drop, or, you can say exit... Now, what can I help you with?";
+        var speechText = "You can ask questions about browser features such as, what is the browser support for drag and drop, or, you can say exit... Now, what can I help you with?";
         var repromptText = "You can say things like, can I use drag and drop, or you can say exit... Now, what can I help you with?";
         var speechOutput = {
             speech: speechText,

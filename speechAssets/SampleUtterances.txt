@@ -1,2 +1,10 @@
 CanIUseIntent {Feature}
-CanIUseIntent can I use {Feature}
+CanIUseIntent what is the browser support for {Feature}
+CanIUseIntent tell me browser support for {Feature}
+CanIUseIntent what browsers support {Feature}
+CanIUseIntent does {Feature} work in Internet Explorer
+CanIUseIntent does {Feature} work in Chrome
+CanIUseIntent does {Feature} work in Opera
+CanIUseIntent does {Feature} work in Edge
+CanIUseIntent does {Feature} work on mobile browsers
+CanIUseIntent do mobile browsers support {Feature}
