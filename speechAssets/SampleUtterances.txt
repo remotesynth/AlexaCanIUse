@@ -8,3 +8,4 @@ CanIUseIntent does {Feature} work in Opera
 CanIUseIntent does {Feature} work in Edge
 CanIUseIntent does {Feature} work on mobile browsers
 CanIUseIntent do mobile browsers support {Feature}
+CanIUseIntent can I use {Feature}
