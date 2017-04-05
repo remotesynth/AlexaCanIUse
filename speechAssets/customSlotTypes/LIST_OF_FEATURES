@@ -136,7 +136,7 @@ WebGL 3D Canvas graphics
 webgl
 File API
 fileapi
-Shadow DOM
+Shadow DOM v0
 shadowdom
 Web Sockets
 websockets
@@ -184,8 +184,10 @@ CSS min max width height
 minmaxwh
 Details Summary elements
 details
-CSS text stroke
+CSS text stroke and text fill
 text stroke
+ChaCha20 Poly1305 cipher suites for TLS
+chacha20 poly1305
 CSS inline block
 inline block
 Web Notifications
@@ -359,7 +361,7 @@ Speech Synthesis API
 speech synthesis
 User Timing API
 user timing
-Srcset attribute
+Srcset and sizes attributes
 srcset
 Ambient Light API
 ambient light
@@ -385,7 +387,8 @@ text size adjust
 Web Animations API
 web animation
 Resource Timing
-Custom Elements
+Custom Elements v0
+custom elements
 HTML Imports
 imports
 Multiple file selection
@@ -402,7 +405,7 @@ CSS touch action property
 css touch action
 Autofocus attribute
 autofocus
-CSS clip path property
+CSS clip path property for HTML
 css clip path
 crypto getRandomValues
 getrandomvalues
@@ -575,9 +578,15 @@ css motion paths
 CSSOM Scroll behavior
 css scroll behavior
 Subresource Integrity
+Custom Elements v1
+custom elementsv1
 in range and out of range CSS pseudo classes
 css in out of range
 Push API
+ES6 Template Literals Template Strings
+template literals
+FLAC audio format
+flac
 background position x background position y
 background position x y
 CSS revert value
@@ -605,10 +614,108 @@ indeterminate CSS pseudo class
 css indeterminate pseudo
 WebGL 2 0
 webgl2
+CSS Initial Letter
 document currentScript
 Explicit descendant combinator
 css descendant gtgt
+SameSite cookie attribute
+same site cookie attribute
 has CSS relational pseudo class
 css has
 selector list argument of not
 css not sel list
+Credential Management API
+credential management
+dir CSS pseudo class
+css dir pseudo
+focus within CSS pseudo class
+css focus within
+DOM manipulation convenience methods
+dom manip convenience
+requestIdleCallback
+Element scrollIntoViewIfNeeded
+scrollintoviewifneeded
+CSS3 attr function
+css3 attr
+SDCH Accept Encoding Content Encoding
+sdch
+CSS Containment
+TLS 1 2
+tls1 2
+TLS 1 1
+tls1 1
+inputmode attribute
+input inputmode
+ch character unit
+ch unit
+naturalWidth naturalHeight image properties
+img naturalwidth naturalheight
+FileReaderSync
+MediaRecorder API
+mediarecorder
+readonly attribute of input and textarea elements
+readonly attr
+X Frame Options HTTP header
+x frame options
+indeterminate checkbox
+tabindex global attribute
+tabindex attr
+TextEncoder TextDecoder
+textencoder
+document elementFromPoint
+element from point
+Element insertAdjacentElement Element insertAdjacentText
+insert adjacent
+once event listener option
+once event listener
+Passive event listeners
+passive event listener
+Selection API
+Payment Request API
+payment request
+Shadow DOM v1
+shadowdomv1
+URLSearchParams
+CSS font rendering controls
+WebAssembly
+wasm
+CSS Paged Media page
+css paged media
+ChildNode remove
+CSS first line pseudo element
+css first line
+Mutation events
+Web App Manifest
+Node compareDocumentPosition
+comparedocumentposition
+HTTP Live Streaming HLS
+http live streaming
+ES6 module
+ES6 classes
+es6 class
+Ping attribute
+ping
+Attributes for form submission
+form submit attributes
+Async functions
+HTML Media Capture
+CSS text indent
+IntersectionObserver
+CSS marker pseudo element
+css marker pseudo
+URL API
+url
+display flow root
+flow root
+rrggbbaa hex color notation
+css rrggbbaa
+Printing Events
+beforeafterprint
+WebVR API
+webvr
+CSS apply rule
+CSS hanging punctuation
+CSS background repeat round and space
+background repeat round space
+document evaluate XPath
+CSS namespaces
